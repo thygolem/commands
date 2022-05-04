@@ -1,7 +1,9 @@
 # ANACONDA
   - $ conda create --name myenv python=3.9
   - $ conda info --envs
+  - $ conda activate myenv
   - $ conda env remove --name myenv
+
   
 # VENV
   - $ pip freeze
